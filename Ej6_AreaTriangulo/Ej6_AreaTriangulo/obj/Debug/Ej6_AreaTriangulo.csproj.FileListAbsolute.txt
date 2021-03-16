@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej6_AreaTriangulo\Ej6_AreaTriangulo\bin\Debug\Ej6_AreaTriangulo.exe.config
+C:\Users\jared\source\repos\Ej6_AreaTriangulo\Ej6_AreaTriangulo\bin\Debug\Ej6_AreaTriangulo.exe
+C:\Users\jared\source\repos\Ej6_AreaTriangulo\Ej6_AreaTriangulo\bin\Debug\Ej6_AreaTriangulo.pdb
+C:\Users\jared\source\repos\Ej6_AreaTriangulo\Ej6_AreaTriangulo\obj\Debug\Ej6_AreaTriangulo.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej6_AreaTriangulo\Ej6_AreaTriangulo\obj\Debug\Ej6_AreaTriangulo.Form1.resources
+C:\Users\jared\source\repos\Ej6_AreaTriangulo\Ej6_AreaTriangulo\obj\Debug\Ej6_AreaTriangulo.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej6_AreaTriangulo\Ej6_AreaTriangulo\obj\Debug\Ej6_AreaTriangulo.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej6_AreaTriangulo\Ej6_AreaTriangulo\obj\Debug\Ej6_AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej6_AreaTriangulo\Ej6_AreaTriangulo\obj\Debug\Ej6_AreaTriangulo.exe
+C:\Users\jared\source\repos\Ej6_AreaTriangulo\Ej6_AreaTriangulo\obj\Debug\Ej6_AreaTriangulo.pdb
